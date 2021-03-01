@@ -1,0 +1,149 @@
+body {
+  background-color: #F5F7FA;
+  font-family: 'Montserrat', sans-serif;
+/* Padding: 0;
+Margin: 0; */
+}
+
+.main_container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+    background-color: #fff;
+    box-shadow: 0 14px 28px #0000007b, 0 10px 10px #0000007b;
+}
+.main_content_section{
+padding: 100px 200px 50px 80px;
+}
+.about_me_section{
+    /* padding: 10px;
+    width: 500px; */
+    /* height: 230px; */
+
+    /* background-color: #eeddb9; */
+}
+
+.project_section{
+    /* background-color: #fffb00; */
+
+}
+.work_exp_section{
+    /* background-color: #d4f1a4; */
+}
+.company_1{
+    /* background-color: #e4dcdc; */
+}
+.company_2{
+    /* background-color: #e4dcdc; */
+
+}
+.company_3{
+    /* background-color: #e4dcdc; */
+
+}
+.education_section{
+    /* background-color: #9de2f7; */
+}
+
+/* Sidebar Section */
+.aside_section{
+    /* display: flex;
+    flex-direction: column; */
+    background-color: #1b145f;
+    width: 370px;
+    padding: 40px 0;
+}
+.contact_section{
+    padding: 50px 0 0 40px;
+}
+.tech_skills_section{
+    padding: 50px 0 0 40px;
+}
+.soft_skills_section{
+    padding: 50px 0 0 40px;
+}
+.contacts_txt, .tech_skills_txt, .soft_skills_txt{
+    font-size: 14px;
+}
+.contacts_span{
+    color: white;
+    font-weight: bold;
+    margin-right: 5px;
+}
+.contacts_link{
+    color: #575F6B;
+}
+
+/* Стили для спиcков и текста Tech Skills, Soft Skills */
+.tech_skills_list, .soft_skills_list{
+    padding: 0 0 0 18px;
+}
+.tech_skills_item, .soft_skills_item{
+    color: #FB6D3A;
+    }
+.tech_skills_item_span, .soft_skills_item_span{
+    color: #fff;
+}
+
+/* Стили заголовков Main content section*/
+.about_me_h2 {
+  font-size: 14px;
+  font-weight: 700;
+  color: #000;
+}
+.about_me_h1 {
+  font-size: 25px;
+  font-weight: 700;
+  color: #000;
+
+}
+.section_h3 {
+    font-size: 22px;
+    font-weight: 700;
+    color: #000;
+}
+.section_h4 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #000;
+}
+.section_h5 {
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+}
+/* Стиль заголовков сайдбара */
+.aside_h3{
+    font: 22px;
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 10px;}
+
+
+
+
+
+
+/* Стили строк span */
+.date_p{
+    font-size: 12px;
+    font-weight: 400;
+    color: rgb(136, 125, 125);
+}
+.title_span{
+    color: red;
+}
+
+.date_span{
+    color: yellowgreen;
+    font-weight: bold;
+}
+
+.list {
+    font-size: 14px;
+}
