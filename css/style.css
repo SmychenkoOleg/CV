@@ -1,8 +1,6 @@
 body {
   background-color: #F5F7FA;
   font-family: 'Montserrat', sans-serif;
-/* Padding: 0;
-Margin: 0; */
 }
 
 .main_container {
@@ -72,7 +70,7 @@ padding: 100px 200px 50px 80px;
     margin-right: 5px;
 }
 .contacts_link{
-    color: #575F6B;
+    color: #919396;
 }
 
 /* Стили для спиcков и текста Tech Skills, Soft Skills */
@@ -86,6 +84,19 @@ padding: 100px 200px 50px 80px;
     color: #fff;
 }
 
+/* Смена цвета при наведении на текст */
+.span:hover{
+    color: blue;
+}
+.span2:hover{
+    color: #ff002f;
+    font-weight: 600;
+}
+.span3:hover{
+    color: #f2ff00;
+}
+
+
 /* Стили заголовков Main content section*/
 .about_me_h2 {
   font-size: 14px;
@@ -96,38 +107,30 @@ padding: 100px 200px 50px 80px;
   font-size: 25px;
   font-weight: 700;
   color: #000;
-
+}
+.h3 {
+    font-size: 22px;
+    font-weight: 700;
+    color: #000;
 }
 .section_h3 {
     font-size: 22px;
     font-weight: 700;
     color: #000;
+    margin-bottom: -20px;
 }
 .section_h4 {
     font-size: 16px;
     font-weight: 700;
     color: #000;
+    margin-bottom: -10px;
 }
 .section_h5 {
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 700;
     color: #000;
+    margin-bottom: -10px;
 }
-/* Стиль заголовков сайдбара */
-.aside_h3{
-    font: 22px;
-    color: white;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 27px;
-    letter-spacing: 0em;
-    text-align: left;
-    margin-bottom: 10px;}
-
-
-
-
-
 
 /* Стили строк span */
 .date_p{
@@ -147,3 +150,20 @@ padding: 100px 200px 50px 80px;
 .list {
     font-size: 14px;
 }
+
+/* Стиль заголовков сайдбара */
+.aside_h3{
+    font: 22px;
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 10px;}
+
+
+
+
+
+
