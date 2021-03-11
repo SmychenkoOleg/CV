@@ -105,12 +105,13 @@ padding: 50px 200px 50px 80px; }
 /*Стиль текста абзацев*/
 .p_text {
     padding-left: 20px;
-    text-align: justify;}
+    text-align: justify;
  }
 .p_text1 {
     padding-left: 10px; 
     font-size: 18px;
-    text-align: justify;}
+    text-align: justify;
+}
 
 /* Стили строк span */
 .date_p{
