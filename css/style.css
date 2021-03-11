@@ -124,7 +124,7 @@ padding: 50px 200px 50px 80px; }
     font-size: 16px;
     padding-left: 50px; }
 
-    /* Стиль заголовков сайдбара 
+    /* Стиль заголовков сайдбара */
 .aside_h3{
     font: 22px;
     color: white;
@@ -133,7 +133,7 @@ padding: 50px 200px 50px 80px; }
     line-height: 27px;
     letter-spacing: 0em;
     text-align: left;
-    margin-bottom: 10px; } */
+    margin-bottom: 10px; } 
 
 /* li {}
 li::before {
