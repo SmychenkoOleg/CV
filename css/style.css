@@ -24,9 +24,7 @@ padding: 50px 200px 50px 80px; }
 .education_section{}
 
 /* Sidebar Section */
-.aside_section{
-    /* display: flex;
-    flex-direction: column; */
+.aside_section {
     background-color: #1b145f;
     width: 370px;
     padding: 40px 0; }
@@ -46,12 +44,12 @@ padding: 50px 200px 50px 80px; }
     color: #919396; 
     text-decoration: none;}
 
-/* Стили оступов для спиcков и текста Tech Skills, Soft Skills */
+/* Стили оступов для спиcков и текста Tech Skills, Soft Skills 
 .tech_skills_list, .soft_skills_list{
     padding: 0 0 0 18px;
     font-size: 14px;
     font-weight: 700;
-    color: #fff;}
+    color: #fff;}*/
 
     /* .tech_skills_item, .soft_skills_item{
     color: #FB6D3A;
@@ -70,8 +68,7 @@ padding: 50px 200px 50px 80px; }
 }
 .span3:hover{
     color: #f2ff00;
-}
-*/
+} */
 
 /* Стили заголовков Main content section*/
 .about_me_h2 {
@@ -105,13 +102,11 @@ padding: 50px 200px 50px 80px; }
 /*Стиль текста абзацев*/
 .p_text {
     padding-left: 20px;
-    text-align: justify;
- }
+    text-align: justify; }
 .p_text1 {
     padding-left: 10px; 
     font-size: 18px;
-    text-align: justify;
-}
+    text-align: justify; }
 
 /* Стили строк span */
 .date_p{
@@ -129,7 +124,7 @@ padding: 50px 200px 50px 80px; }
     font-size: 16px;
     padding-left: 50px; }
 
-    /* Стиль заголовков сайдбара */
+    /* Стиль заголовков сайдбара 
 .aside_h3{
     font: 22px;
     color: white;
@@ -138,7 +133,7 @@ padding: 50px 200px 50px 80px; }
     line-height: 27px;
     letter-spacing: 0em;
     text-align: left;
-    margin-bottom: 10px; }
+    margin-bottom: 10px; } */
 
 /* li {}
 li::before {
